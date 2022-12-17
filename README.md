@@ -6,7 +6,7 @@ Currently, there is nothing to contribuite to as this bot is under initial const
 To run this locally, you will probably need an installation of Python 3.7+.
 This can be installed from https://python.org or the Microsoft Store (Windows) among a host of options.
 You will also need to install this module https://pypi.org/project/discord/?adlt=strict&toWww=1&redig=F8F426AC310F408FA40968EBAA7762CB .
-You can use whatever IDE you want, whetherr its Microsoft Visual Studio Code or JetBrains PyCharm Community.
+You can use whatever IDE you want, whether its Microsoft Visual Studio Code or JetBrains PyCharm Community.
 Also don't forget to go to GitHub Projects to see the current status of this project.
 # How this bot works 
 This bot is coded in the Python programming language
