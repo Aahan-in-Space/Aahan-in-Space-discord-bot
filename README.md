@@ -11,7 +11,7 @@ Also don't forget to go to GitHub Projects to see the current status of this pro
 # How this bot works 
 This bot is coded in the Python programming language
 The backup for this bot and collabaration options are done by GitHub in this repo.
-The bot is made of Repl 
+The bot is made in Replit 
 This means you can also view the code using this link https://replit.com/@programmerthe/Aahan-in-Space-bot
 Also please note that I am programmer_the on Repl.
 This bot works in my channel's discord server
