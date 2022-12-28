@@ -23,6 +23,9 @@ If you contribute it will be automatically assumed you have agreed.
 # Security
 Here at Aahan in Space we take security very seriously.
 We use GitHub security to meet all of our security needs.
+We have dependabot enabled to alert maintainers.
+Dependabot also creates automatic pull requests to fix any security issues.
+We also have GitHub CodeQL GitHub Actions workflow run enabled.
 If you think there is a security vulnerability go to the Security Tab, select advisories, click new draft advisory and enter what the security vulnerability is. 
 # Don't do this on the repository
 Do not use this repository as a place for any sort of discrimination or humiliation.
