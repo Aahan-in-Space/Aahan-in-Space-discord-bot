@@ -1,13 +1,12 @@
 # Aahan-in-Space-discord-bot
 This repository for a discord bot called Aahan in Space. 
 # For contributors
-If you are consideing to contribute, please read the rest of this README.md and the LICENSE.md
-Currently, there is nothing to contribuite to as this bot is under initial construction.
+If you are consideing to contribute, please read the rest of this README.md and the [LICENSE.md](https://github.com/Aahan-in-Space/Aahan-in-Space-discord-bot/blob/main/LICENSE.md)
 To run this locally, you will probably need an installation of Python 3.7+.
-This can be installed from https://python.org or the Microsoft Store (Windows) among a host of options.
-You will also need to install this module https://pypi.org/project/discord/?adlt=strict&toWww=1&redig=F8F426AC310F408FA40968EBAA7762CB .
+This can be installed from [the Python website](https://python.org) or the Microsoft Store (Windows) among a host of options.
+You will also need to install [the Python discord module](https://pypi.org/project/discord/?adlt=strict&toWww=1&redig=F8F426AC310F408FA40968EBAA7762CB).
 You can use whatever IDE you want, whether its Microsoft Visual Studio Code or JetBrains PyCharm Community.
-Also don't forget to go to GitHub Projects to see the current status of this project.
+Also don't forget to go to [GitHub Projects](https://github.com/orgs/Aahan-in-Space/projects/2) to see the current status of this project.
 # How this bot works 
 This bot is coded in the Python programming language
 The backup for this bot and collabaration options are done by GitHub in this repo.

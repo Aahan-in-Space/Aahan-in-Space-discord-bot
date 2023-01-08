@@ -16,5 +16,5 @@ async def on_message(message):
         await message.channel.send(message.content[::-1])
 
 my_secret = os.environ["token"]
-client.run(my_secret)
 always_online()
+client.run(my_secret)
